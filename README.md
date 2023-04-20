@@ -1,4 +1,4 @@
-# Support Tickets
+# LN Support Tickets
 
 ## Get paid sats to answer questions
 
